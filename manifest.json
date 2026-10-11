@@ -1,0 +1,11 @@
+{
+  "name":"El Ahorcado Neon Edition",
+  "short_name":"Ahorcado Neon",
+  "description":"Adivina palabras, supera 100 niveles y consigue récords.",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#090817",
+  "theme_color":"#090817",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
